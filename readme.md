@@ -1,16 +1,16 @@
 # `Level 2 Practice Folder – Sheriyan Coding School`
 
-This folder contains practice projects created while following **Sheriyan Coding School's Level 2 HTML, CSS, and JavaScript tutorials**. Each project focuses on enhancing practical frontend skills with real-world functionalities.
+This folder contains practice projects created while following **`Sheriyan Coding School's Level 2 HTML, CSS, and JavaScript tutorials`**. Each project focuses on enhancing practical frontend skills with real-world functionalities.
 
-## Projects Included
+## `Projects Included``
 
-### 📌 Pinterest Clone (Search Functionality)
+### 📌 `Pinterest Clone (Search Functionality)`
 
 * A clone of Pinterest with basic layout and UI design.
 * Features a **search bar** to mimic the Pinterest-style search experience.
 * Focuses on image grid layout, responsiveness, and user interaction.
 
-### 🛒 Shopping Cart
+### 🛒 `Shopping Cart`
 
 * Dynamic shopping cart using JavaScript.
 * Allows adding, removing, and updating items.
