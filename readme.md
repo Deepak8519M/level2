@@ -2,7 +2,7 @@
 
 This folder contains practice projects created while following **`Sheriyan Coding School's Level 2 HTML, CSS, and JavaScript tutorials`**. Each project focuses on enhancing practical frontend skills with real-world functionalities.
 
-## `Projects Included``
+## `Projects Included`
 
 ### 📌 `Pinterest Clone (Search Functionality)`
 
@@ -34,12 +34,4 @@ This folder contains practice projects created while following **`Sheriyan Codin
 
 To gain hands-on experience with web development by building mini-projects that simulate real-world apps.
 
----
 
-You can also add:
-
-* Screenshots for each project.
-* A live preview or GitHub Pages link (if deployed).
-* A "How to Run" section if others will clone this repo.
-
-Let me know if you want that too!
