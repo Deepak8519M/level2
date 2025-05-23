@@ -16,7 +16,7 @@ This folder contains practice projects created while following **`Sheriyan Codin
 * Allows adding, removing, and updating items.
 * Implements basic DOM manipulation and event handling.
 
-### 🎵 YouTube Music UI Clone
+### 🎵 `YouTube Music UI Clone`
 
 * A frontend clone of the YouTube Music interface.
 * Focus on layout, typography, and styling with CSS Flexbox and Grid.
@@ -24,13 +24,13 @@ This folder contains practice projects created while following **`Sheriyan Codin
 
 ---
 
-### 🔧 Technologies Used
+### 🔧 `Technologies Used`
 
 * HTML5
 * CSS3 (Flexbox, Grid, Animations)
 * JavaScript (DOM Manipulation, Events, Functions)
 
-### 📚 Purpose
+### 📚 `Purpose`
 
 To gain hands-on experience with web development by building mini-projects that simulate real-world apps.
 
